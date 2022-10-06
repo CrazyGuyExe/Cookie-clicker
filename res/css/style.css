@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+#cookie {
+  display: block;
+  max-width: 320px;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+  cursor: pointer;
+}
+
+#counter {
+  text-align: center;
+  font-family: "Pacifico", cursive;
+  font-size: 24px;
+}
+
+#upgrade {
+  display: table;
+  margin: 0 auto;
+  width: 200px;
+}
+
+#upgrade2 {
+  display: table;
+  margin: 0 auto;
+  width: 200px;
+}
+#autoclicker {
+  display: table;
+  margin: 0 auto;
+  width: 200px;
+}
